@@ -13,4 +13,4 @@
 | 2      | [Lab 2](https://github.com/alina232/EAD/tree/master/Practical/Lab-2) | 29 Nov. 2021 | 6 Dec. 2021 |
 | 3      | [Lab 3](https://github.com/alina232/EAD/tree/master/Practical/Lab-3) | 29 Nov. 2021 | 6 Dec. 2021 |
 | 3      | [Lab 4](https://github.com/alina232/EAD/tree/master/Practical/Lab-4) | 29 Dec. 2021 | 12 Jan. 2022 |
-| 3      | [Lab 5](https://github.com/alina232/EAD/tree/master/Practical/Lab-4) | 22 Jan. 2022 | 22 Jan. 2022 |
+| 3      | [Lab 5](https://github.com/alina232/EAD/tree/master/Practical/Lab-5) | 22 Jan. 2022 | 22 Jan. 2022 |
